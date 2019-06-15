@@ -1,7 +1,10 @@
 # CoolBASH
 BASH script style
 
-### loader.bash - Sample script
+### loader.bash
+![Loader](https://raw.githubusercontent.com/zerobyte-id/CoolBASH/master/img/loader-bash.gif)
+
+Sample:
 ```
 function _loader {
     let _progress=(${1}*100/${2}*100)/100
