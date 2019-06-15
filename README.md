@@ -1,0 +1,2 @@
+# CoolBASH
+BASH script style
